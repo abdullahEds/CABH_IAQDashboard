@@ -1,0 +1,9 @@
+{
+    "Logo":"/logos/EDSlogo.png",
+    "Title":"Edsglobal",
+    "Favicon":"/logos/favicon.ico",
+    "api_host":"https://iaq-dashboard.edsglobal.com",
+    "server_host": "https://iaq-dashboard.edsglobal.com",
+    "url" : "https://iaq-dashboard.edsglobal.com/dashboard",
+    "user": "admin"
+}
